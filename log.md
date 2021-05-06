@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 06, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started learning [CP algorithms](https://cp-algorithms.com/). Understood and implemented the [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html) algorithm. Solved two exercises mentioned on the website as well. The exercises have been solved in C++. However, I have implemented the algorithm in C++, C, Java, Kotlin, PHP, Python, Rust, Go, Dart and Javascript.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Understanding and implementing algorithms are comparatively easier than using them in problem solving. I tried to solve [third problem](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1970) mentioned on the website but could not solve it. I will try to work on it tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Github Commit Link:** [10b66a953f367bee30bea061bd641ed1b6c3111b](https://github.com/guttume/cp-algorithms/commit/10b66a953f367bee30bea061bd641ed1b6c3111b)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
