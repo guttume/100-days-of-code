@@ -9,3 +9,13 @@
 **Github Commit Link:** [10b66a953f367bee30bea061bd641ed1b6c3111b](https://github.com/guttume/cp-algorithms/commit/10b66a953f367bee30bea061bd641ed1b6c3111b)
 
 **Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
+
+### Day 0: May 06, 2021
+
+**Today's Progress**: Learnt [Euclidean algorithm](https://cp-algorithms.com/algebra/euclid-algorithm.html) to find out GCD of two numbers. Implemented the algorightm in c, c++, python, java and kotlin.
+
+**Thoughts:** Euclidean algorithm is a quick way to calculate GCD of two numbers.
+
+**Github Commit Link:** [6d470d9ea7fe184e2af6d8c6950cc6eec6fbbc06](https://github.com/guttume/cp-algorithms/commit/6d470d9ea7fe184e2af6d8c6950cc6eec6fbbc06)
+
+**Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
