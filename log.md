@@ -10,12 +10,22 @@
 
 **Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
 
-### Day 0: May 06, 2021
+### Day 1: May 07, 2021
 
 **Today's Progress**: Learnt [Euclidean algorithm](https://cp-algorithms.com/algebra/euclid-algorithm.html) to find out GCD of two numbers. Implemented the algorightm in c, c++, python, java and kotlin.
 
 **Thoughts:** Euclidean algorithm is a quick way to calculate GCD of two numbers.
 
 **Github Commit Link:** [6d470d9ea7fe184e2af6d8c6950cc6eec6fbbc06](https://github.com/guttume/cp-algorithms/commit/6d470d9ea7fe184e2af6d8c6950cc6eec6fbbc06)
+
+**Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
+
+### Day 2: May 09, 2021
+
+**Today's Progress**: Solved two more problems on binary exponentiation. Got to know, how to find first k digits of any number raised to a large power without calculating the power of the number. Also implemented [Extended Euclidean algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html) in c++, javaa and python.
+
+**Thoughts:** Sometimes it is very difficult to understand the implementation of an algorithm in code even though I have understood the algorithm properly.
+
+**Github Commit Link:** [96165e2173750e6d1d5abcc88db03592719326cc](https://github.com/guttume/cp-algorithms/commit/96165e2173750e6d1d5abcc88db03592719326cc)
 
 **Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)

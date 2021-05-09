@@ -11,3 +11,7 @@ Started learning [CP algorithms](https://cp-algorithms.com/). Understood and imp
 ### R1D1
 
 Learnt [Euclidean algorithm](https://cp-algorithms.com/algebra/euclid-algorithm.html) to find out GCD of two numbers. Implemented the algorightm in c, c++, python, java and kotlin.
+
+### R1D3
+
+Solved two more problems on binary exponentiation. Got to know, how to find first k digits of any number raised to a large power without calculating the power of the number. Also implemented [Extended Euclidean algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html) in c++, javaa and python.
