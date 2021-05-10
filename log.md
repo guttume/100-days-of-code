@@ -29,3 +29,13 @@
 **Github Commit Link:** [96165e2173750e6d1d5abcc88db03592719326cc](https://github.com/guttume/cp-algorithms/commit/96165e2173750e6d1d5abcc88db03592719326cc)
 
 **Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)
+
+### Day 3: May 10, 2021
+
+**Today's Progress**: Implemented (Binary GCD)[https://cp-algorithms.com/algebra/euclid-algorithm.html#toc-tgt-5] in c++.
+
+**Thoughts:** Modulo operations are expensive and can be avoided by using bit operations
+
+**Github Commit Link:** [8201b6bd5ec60177068e04770110e0ff4c002d8e](https://github.com/guttume/cp-algorithms/commit/8201b6bd5ec60177068e04770110e0ff4c002d8e)
+
+**Link to Repo:** [CP Algorithms](https://github.com/guttume/cp-algorithms)

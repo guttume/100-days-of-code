@@ -15,3 +15,7 @@ Learnt [Euclidean algorithm](https://cp-algorithms.com/algebra/euclid-algorithm.
 ### R1D3
 
 Solved two more problems on binary exponentiation. Got to know, how to find first k digits of any number raised to a large power without calculating the power of the number. Also implemented [Extended Euclidean algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html) in c++, javaa and python.
+
+### R1D4
+
+Implemented (Binary GCD)[https://cp-algorithms.com/algebra/euclid-algorithm.html#toc-tgt-5] in c++.
